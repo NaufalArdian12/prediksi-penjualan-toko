@@ -77,4 +77,10 @@ Dataset terdiri dari dua file:
 ---
 
 ## 🗂 Struktur Folder
+📁 prediksi-penjualan-toko/
+├── 📄 README.md
+├── 📄 UAS.ipynb
+├── 📁 data/
+│ ├── train.csv
+│ └── store.csv
 
