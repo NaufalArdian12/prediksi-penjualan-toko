@@ -74,13 +74,4 @@ Dataset terdiri dari dua file:
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
----
-
-## 🗂 Struktur Folder
-📁 prediksi-penjualan-toko/
-├── 📄 README.md
-├── 📄 UAS.ipynb
-├── 📁 data/
-│ ├── train.csv
-│ └── store.csv
 
